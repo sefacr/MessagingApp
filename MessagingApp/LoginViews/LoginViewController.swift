@@ -28,6 +28,7 @@ class LoginViewController: UIViewController {
     
     
     @IBAction func registerBtnClicked(_ sender: Any) {
+        instantiateViewController(identifier: "registerViewController", animated: true, by: self, completion: nil)
     }
     
     private func configureUI() {
