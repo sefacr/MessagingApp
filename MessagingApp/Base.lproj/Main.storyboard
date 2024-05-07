@@ -234,7 +234,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5rx-KL-vlH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <tapGestureRecognizer id="gO0-t4-naa"/>
             </objects>
-            <point key="canvasLocation" x="832.82442748091603" y="10.563380281690142"/>
+            <point key="canvasLocation" x="71" y="644"/>
         </scene>
     </scenes>
     <resources>
